@@ -5,12 +5,18 @@
     <Deterministic>false</Deterministic>
     <RootNamespace>BrightIdeasSoftware</RootNamespace>
     <AssemblyName>ObjectListView</AssemblyName>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWindowsForms>true</UseWindowsForms>
+	  
+	<!-- Versioni: inserite qui invece che in AssemblyInfo.cs per avere il package nuGet nominato con la stessa versione dell'assembly -->
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<Version>2.9.4</Version>
+    <AssemblyVersion>2.9.4.0</AssemblyVersion>
+    <FileVersion>2.9.4.0</FileVersion>
+    <InformationalVersion>2.9.4</InformationalVersion>    
+	  
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="..\.files\AssemblyInfo.Version.cs" Link="Properties\AssemblyInfo.Version.cs" />
     <Compile Include="..\ObjectListView\CellEditing\CellEditKeyEngine.cs" Link="CellEditing\CellEditKeyEngine.cs" />
     <Compile Include="..\ObjectListView\CellEditing\CellEditors.cs" Link="CellEditing\CellEditors.cs" />
     <Compile Include="..\ObjectListView\CellEditing\EditorRegistry.cs" Link="CellEditing\EditorRegistry.cs" />
@@ -101,6 +107,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.18" />
   </ItemGroup>
 </Project>
