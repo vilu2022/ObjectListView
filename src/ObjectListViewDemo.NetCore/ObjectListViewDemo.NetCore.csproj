@@ -165,7 +165,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ListViewPrinter.NetCore\ListViewPrinter.NetCore.csproj" />
-    <ProjectReference Include="..\ObjectListView.NetCore\ObjectListView.NetCore.csproj" />
+    <ProjectReference Include="..\ObjectListView.NetCore\ObjectListView.Net.csproj" />
     <ProjectReference Include="..\SparkleLibrary.NetCore\SparkleLibrary.NetCore.csproj" />
   </ItemGroup>
 
