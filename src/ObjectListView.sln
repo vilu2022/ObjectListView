@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectListView", "ObjectListView\ObjectListView.csproj", "{609D2CF5-049C-4708-809D-1C0B7BF57A5C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectListView.Net", "ObjectListView.NetCore\ObjectListView.Net.csproj", "{4CD0B8CE-161D-4F19-9B62-8C77FA601986}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectListView.Net", "ObjectListView.Net\ObjectListView.Net.csproj", "{4CD0B8CE-161D-4F19-9B62-8C77FA601986}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectListViewDemo", "ObjectListViewDemo\ObjectListViewDemo.csproj", "{6C098288-075B-4083-9B53-6E94FFCD50C4}"
 EndProject

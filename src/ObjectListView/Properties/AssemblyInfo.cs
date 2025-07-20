@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ObjectListView")]
 [assembly: AssemblyDescription("A much easier to use ListView and friends")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Bright Ideas Software")]
+[assembly: AssemblyCompany("Bright Ideas Software - modified by Vilu")]
 [assembly: AssemblyProduct("ObjectListView")]
-[assembly: AssemblyCopyright("Copyright ©  2006-2020")]
+[assembly: AssemblyCopyright("Copyright ©  2006-2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,3 +20,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("ef28c7a8-77ae-442d-abc3-bb023fa31e57")]
+
+[assembly: System.CLSCompliant(true)]
+
+// Version information for an assembly defined inside the project file !!!!!!

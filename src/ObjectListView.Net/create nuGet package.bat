@@ -1,0 +1,1 @@
+dotnet pack -c Release -o D:\CLOUD\PROGRAMMAZIONE\C#\LIB\NuGetLocalPackage

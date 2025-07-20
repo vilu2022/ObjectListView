@@ -43,6 +43,8 @@ using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using System.Security.Permissions;
 
+
+
 namespace BrightIdeasSoftware
 {
     /// <summary>
@@ -221,7 +223,7 @@ namespace BrightIdeasSoftware
             }
         }
         private bool hasBorder = true;
-
+    
         /// <summary>
         /// Get or set the background color of the tooltip
         /// </summary>
