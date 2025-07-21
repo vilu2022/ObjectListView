@@ -10,6 +10,7 @@ Larry Wall, the author of Perl, once wrote that the three essential character fl
 
 ObjectListView encourages the vices of sloth and hubris, by allowing programmers to do far less work but still produce great looking results.
 
+---------------------------------------
 
 **This version is forked from 2.9.3 by ennerperez.**
 
