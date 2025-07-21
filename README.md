@@ -11,8 +11,8 @@ Larry Wall, the author of Perl, once wrote that the three essential character fl
 ObjectListView encourages the vices of sloth and hubris, by allowing programmers to do far less work but still produce great looking results.
 
 
-<u>This version is forked from 2.9.3 by ennerperez</u>
-<u>Added compatibility with .NET 6, .NET 7 and .NET 8 and fix the issue https://github.com/ennerperez/ObjectListView/issues/4 </u>
+**This version is forked from 2.9.3 by ennerperez**
+**Added compatibility with .NET 6, .NET 7 and .NET 8 and fix the issue https://github.com/ennerperez/ObjectListView/issues/4**
 
 ---------------------------------------
 
