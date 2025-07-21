@@ -13,7 +13,6 @@ ObjectListView encourages the vices of sloth and hubris, by allowing programmers
 ---------------------------------------
 
 **This version is forked from 2.9.3 by ennerperez.**
-
 **Added compatibility with .NET 6, .NET 7 and .NET 8 and fix the issue https://github.com/ennerperez/ObjectListView/issues/4**
 
 ---------------------------------------
